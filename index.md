@@ -1,4 +1,4 @@
-## Welcome to https://obdude.github.io
+## Welcome to obdude.github.io
 
 - [About page](https://obdude.com/about)
 - [Results from affiliate marketing](https://obdude.com/results)
